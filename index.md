@@ -51,14 +51,7 @@ MicroPython es
 - [WiPy]
 - [ESP8266]
 - [ESP32]
-## Ventajas y Desventajas
-<<<<<<< HEAD
-=======
-## Requisitos:
-1. Microcontrolador compatible con MicroPython
-2. Cable USB 
-3. Una computadora
-4. Firmware
+
 
 [pyboard]: <https://store.micropython.org/>
 [WiPy]: <https://www.adafruit.com/product/3338>
@@ -70,5 +63,5 @@ MicroPython es
 [MicroPython]: /img/microPython.jpg "MicroPython"
 
 >>>>>>> f0165c526f32ac9728f9f72c460932c9c95e2b18
-=======
+
 >>>>>>> f0165c526f32ac9728f9f72c460932c9c95e2b18
