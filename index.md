@@ -12,8 +12,6 @@
 
 # Primeros pasos con MicroPython
 
-![MicroPython][MicroPython]
-
 Para quienes se quieren iniciar en este mundo de utilizar microcontroladores para crear proyectos de:
 - Electrónica
 - IOT (Internet De las Cosas)
@@ -32,22 +30,24 @@ Es la interconexion de todos los dispositivos (de hay el nombre de internet de l
 ## ¿Cuál es la tendencia ?
 Ahora vamos a entrar al tema más interesante, Gartner predice que habrá cerca de 20 mil millones de dispositivos conectados al IoT para 2020, y los proveedores de productos y servicios de IoT generarán más de 300 mil millones de dólares en ingresos..
 
-# Todo conectado
+### Todo conectado
 2018 será el año de IoT para el consumidor más que el IoT industrial. Habrá una gran cantidad de oportunidades en el espacio industrial de Internet, donde los dispositivos y redes conectadas aprovecharán el análisis en tiempo real, la retroalimentación, etc.
 
-# Nueva infraestructura de datos
+### Nueva infraestructura de datos
 La recopilación de datos de sensores es buena, pero el objetivo final es obtener información procesable a partir de esos datos, y eso requerirá una nueva infraestructura de datos.
 
-# Entra en juego el Edge Computing
+### Entra en juego el Edge Computing
 
 El procesamiento se extiende al borde de IoT en 2018, se espera ver tejidos de datos y computación que abarquen las instalaciones locales en múltiples nubes. 
 
-# Los ataques de IoT estarán motivados por las ganancias financieras
+### Los ataques de IoT estarán motivados por las ganancias financieras
 
 Cisco predice que hasta 1 millón de nuevas conexiones por hora se agregarán a Internet para 2020, expandiendo la superficie de ataque y haciendo que las vulnerabilidades de IoT sean más críticas y más peligrosas.
 
 ## ¿Qué es MicroPython?
-MicroPython es 
+MicroPython es una implementación ágil y eficiente del lenguaje de programación Python 3 que incluye un pequeño subconjunto de la biblioteca estándar de Python y está optimizado para ejecutarse en microcontroladores y en entornos restringidos.
+
+![MicroPython][MicroPython]
 ## Dispositivos compatibles
 - [Pyboard]
 - [WiPy]
