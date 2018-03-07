@@ -1,3 +1,15 @@
+{% include ads.html %}
+
+# Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="/micropython{{post.url }}">{{post.title}}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Primeros pasos con MicroPython
 ![MicroPython][MicroPython]
 Para quienes se quieren iniciar en este mundo de utilizar microcontroladores para crear proyectos de:
@@ -40,9 +52,18 @@ MicroPython es
 - [ESP8266]
 - [ESP32]
 ## Ventajas y Desventajas
+<<<<<<< HEAD
+=======
+## Requisitos:
+1. Microcontrolador compatible con MicroPython
+2. Cable USB 
+3. Una computadora
+4. Firmware
 
-[Pagina 1](test.html){: .btn}
+>>>>>>> f0165c526f32ac9728f9f72c460932c9c95e2b18
 
+
+<<<<<<< HEAD
 [//]: # (Enlaces)
 [pyboard]: <https://store.micropython.org/>
 [WiPy]: <https://www.adafruit.com/product/3338>
@@ -52,3 +73,5 @@ MicroPython es
 [iot]: /img/iot.jpg "Internet De las Cosas"
 [micro]: /img/microcontrolador.jpg "Microcontrolador"
 [MicroPython]: /img/microPython.jpg "MicroPython"
+=======
+>>>>>>> f0165c526f32ac9728f9f72c460932c9c95e2b18
