@@ -1,3 +1,5 @@
+{% include ads.html %}
+
 # Primeros pasos con MicroPython
 Para quienes se quieren iniciar en este mundo de utilizar microcontroladores para crear proyectos de:
 - Electrónica
