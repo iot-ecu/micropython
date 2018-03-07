@@ -1,5 +1,15 @@
 {% include ads.html %}
 
+## Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="/micropython{{post.url }}">{{post.title}}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Primeros pasos con MicroPython
 Para quienes se quieren iniciar en este mundo de utilizar microcontroladores para crear proyectos de:
 - Electrónica
