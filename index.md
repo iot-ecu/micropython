@@ -61,6 +61,3 @@ MicroPython es
 [iot]: img/iot.jpg "Internet De las Cosas"
 [micro]: img/microcontrolador.jpg "Microcontrolador"
 [MicroPython]: img/microPython.jpg "MicroPython"
-
->>>>>>> f0165c526f32ac9728f9f72c460932c9c95e2b18
->>>>>>> f0165c526f32ac9728f9f72c460932c9c95e2b18
