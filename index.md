@@ -25,8 +25,5 @@ MicroPython es
 3. Una computadora
 4. Firmware
 
-## Pasos:
 
-[Pagina 1](test.html){: .btn}
 
-{% include test.html %}
