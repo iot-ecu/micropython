@@ -11,7 +11,9 @@
 </ul>
 
 # Primeros pasos con MicroPython
+
 ![MicroPython][MicroPython]
+
 Para quienes se quieren iniciar en este mundo de utilizar microcontroladores para crear proyectos de:
 - Electrónica
 - IOT (Internet De las Cosas)
@@ -58,6 +60,6 @@ MicroPython es
 [ESP8266]: <https://es.aliexpress.com/store/product/NodeMCU-V3-Lua-WIFI-module-integration-of-ESP8266-extra-memory-32M-flash-USB-serial-CP2102/1950989_32779738528.html?spm=a219c.12010615.0.0.50b246fd8VsCwn>
 [ESP32]: <https://es.aliexpress.com/store/product/Lolin-ESP32-OLED-wemos-for-Arduino-ESP32-OLED-WiFi-Modules-Bluetooth-Dual-ESP-32-ESP-32S/1983387_32807531243.html?spm=a219c.search0104.3.3.403e6f61OdnCLU&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10307_5711211_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_5722411_10621_10620_5711311-5722411_10620,searchweb201603_25,ppcSwitch_5&algo_expid=596a44ad-9bbc-41cb-8286-8cf1c8ba23be-0&algo_pvid=596a44ad-9bbc-41cb-8286-8cf1c8ba23be&priceBeautifyAB=0>
 
-[iot]: img/iot.jpg "Internet De las Cosas"
-[micro]: img/microcontrolador.jpg "Microcontrolador"
+[iot]: img/iot.png "Internet De las Cosas"
+[micro]: img/microprocesador.jpg "Microcontrolador"
 [MicroPython]: img/microPython.jpg "MicroPython"
